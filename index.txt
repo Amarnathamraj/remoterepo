@@ -7,3 +7,6 @@ message from emp2
 function emp1(){
     console.log('emp1 function')
 }
+function emp2(){
+console.log('emp2 function')
+}
