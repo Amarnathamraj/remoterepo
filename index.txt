@@ -7,6 +7,8 @@ message from emp2
 function emp1(){
     console.log('emp1 function')
 }
+my next feature(emp1)
+=======
 function emp2(){
 console.log('emp2 function')
 }
