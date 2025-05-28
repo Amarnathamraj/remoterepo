@@ -7,3 +7,4 @@ message from emp2
 function emp1(){
     console.log('emp1 function')
 }
+my next feature(emp1)
